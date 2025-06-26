@@ -1,4 +1,6 @@
-to use please download IDE (eg. visual code studio or pycharm)
+to use please download IDE (eg. visual code studio or pycharm) and download python
+
+Python: https://www.python.org/downloads/
 
 visual code studio: https://code.visualstudio.com/download
 
