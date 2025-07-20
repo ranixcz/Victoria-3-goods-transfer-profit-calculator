@@ -1,7 +1,7 @@
 # Victoria 3 Goods Transfer Profit Calculator
 
 A simple Python-based calculator to predict the most profitable amount of goods to transfer between two markets in Victoria 3.  
-Supports versions **1.9+**. Prestige goods are not included (yet).
+Supports versions **1.9+**.
 
 ---
 
